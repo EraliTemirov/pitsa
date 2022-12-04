@@ -1,0 +1,162 @@
+body {
+  display: flex;
+  height: 200vh;
+  background-color: rgb(209, 194, 194);
+}
+
+.bir {
+  background-color: rgb(252, 103, 49);
+  width: 600px;
+  height: 600px;
+  border: 5px solid rgb(86, 2, 2);
+  border-radius: 50%;
+}
+
+.nonn {
+  color: blueviolet;
+  background-color: rgb(252, 103, 49);
+  width: 550px;
+  height: 550px;
+  border: 5px solid rgb(252, 103, 49);
+  border-radius: 50%;
+  transform: translate(20px, 20px);
+}
+.rest {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+.mush {
+  opacity: 0;
+}
+.mushroom {
+  width: 55px;
+}
+.mushroom1 {
+  transform: translate(100%, 200%);
+}
+.mushroom2 {
+  transform: translate(300%, 100%);
+}
+.mushroom3 {
+  transform: translate(-100%, 600%);
+}
+.mushroom4 {
+  transform: translate(150%, 450%);
+}
+.mushroom5 {
+  transform: translate(200%, 800%);
+}
+.mushroom6 {
+  transform: translate(300%, 400%);
+}
+.mushroom7 {
+  transform: translate(100%, 100%);
+}
+.tomato {
+  opacity: 0;
+}
+.pomidor {
+  width: 55px;
+}
+.pomidor1 {
+  transform: translate(50%, 380%);
+}
+.pomidor2 {
+  transform: translate(100%, 700%);
+}
+.pomidor3 {
+  transform: translate(100%, 400%);
+}
+.pomidor4 {
+  transform: translate(200%, 800%);
+}
+.pomidor5 {
+  transform: translate(100%, -100%);
+}
+.pomidor6 {
+  transform: translate(100%, 200%);
+}
+.pomidor7 {
+  transform: translate(200%, 500%);
+}
+.zay_tun {
+  opacity: 0;
+}
+.zaytun {
+  width: 60px;
+}
+.zaytun1 {
+  transform: translate(100%, 100%);
+}
+.zaytun2 {
+  transform: translate(200%, 400%);
+}
+.zaytun3 {
+  transform: translate(200%, 10%);
+}
+.zaytun4 {
+  transform: translate(300%, 400%);
+}
+.bodrin {
+  opacity: 0;
+}
+.bodring {
+  width: 60px;
+}
+.bodring1 {
+  transform: translate(150%, 100%);
+}
+.bodring2 {
+  transform: translate(100%, -100%);
+}
+.bodring3 {
+  transform: translate(300%, 300%);
+}
+.bodring4 {
+  transform: translate(300%, 100%);
+}
+.kolbas {
+  opacity: 0;
+}
+.kolbasa {
+  width: 60px;
+}
+.kolbasa1 {
+  transform: translate(300%, -100%);
+}
+.kolbasa2 {
+  transform: translate(100%, 100%);
+}
+.kolbasa3 {
+  transform: translate(200%, 300%);
+}
+.kolbasa4 {
+  transform: translate(200%, -300%);
+}
+.check {
+  margin-left: 25px;
+}
+input {
+  margin-right: 20px;
+}
+.check {
+  font-size: 25px;
+  margin-left: 60px;
+}
+.Royxat {
+  margin-left: 60px;
+}
+li {
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+.mablag {
+  padding: 20px;
+  transform: translate(-400px, 400px);
+  font-size: 35px;
+  width: 280px;
+  height: 100px;
+  background-color: rgb(223, 126, 126);
+  border-radius: 10px;
+}
